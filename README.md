@@ -4,7 +4,7 @@ While reading [Lyn Alden](https://twitter.com/LynAldenContact)'s [December Newsl
 <br>
 Is there a correlation in a specific country between [crypto adoption](https://blog.chainalysis.com/reports/2022-global-crypto-adoption-index/) and the percentage of people banked using the [Global Economy Index](https://www.theglobaleconomy.com/ )?
 
-![Article Snippet](Screenshots/Article Snippet.png)
+<img alt="Article Snippet" height="300" src="Screenshots/Article Snippet.png" width="300"/>
 
 <br>
 
