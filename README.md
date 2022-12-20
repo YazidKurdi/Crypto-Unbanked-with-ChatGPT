@@ -9,7 +9,9 @@ With the help of ChatGPT I was able to webscrape country names provided in the t
 Visualize the findings using power BI.
 
 <hr size="5" color="red">
-<img alt="Article Snippet" height="300" src="Screenshots/Article Snippet.PNG" width="500"/>
+<div style="text-align: center;">
+  <img alt="Article Snippet" height="300" src="Screenshots/Article Snippet.PNG" width="500"/>
+</div>
 
 <br>
 
