@@ -32,6 +32,7 @@ Visualize the findings using power BI.
 </table>
 
 ### Results using PowerBI
+<hr size="5" color="red">
 <p align="center">
   <img alt="Article Snippet" height="300" src="Screenshots/Bitcoin adoption.PNG" width="700"/>
 </p>
