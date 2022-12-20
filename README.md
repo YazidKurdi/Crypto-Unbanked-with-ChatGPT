@@ -11,13 +11,13 @@ Is there a correlation in a specific country between [crypto adoption](https://b
 <table>
   <tr>
     <td>
-      <img src="Screenshots/Part1.png" alt="Image 1" width="200" height="500">
+      <img src="Screenshots/Part1.png" alt="Image 1" width="300" height="500">
     </td>
     <td>
-      <img src="Screenshots/Part1.png" alt="Image 2" width="200" height="500">
+      <img src="Screenshots/Part1.png" alt="Image 2" width="300" height="500">
     </td>
     <td>
-      <img src="Screenshots/Part1.png" alt="Image 3" width="200" height="500">
+      <img src="Screenshots/Part1.png" alt="Image 3" width="300" height="500">
     </td>
   </tr>
 </table>
