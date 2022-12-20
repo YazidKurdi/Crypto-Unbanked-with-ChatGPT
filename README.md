@@ -36,3 +36,10 @@ Visualize the findings using power BI.
 <p align="center">
   <img alt="Article Snippet" height="300" src="Screenshots/Bitcoin adoption.PNG" width="700"/>
 </p>
+
+### Conclusion
+<hr size="5" color="red">
+Weak correlation between the countries crypto adoption (shown between brackets in the visualisation) and percentage banked. There are more factors that might lead to an increase in crypto adoption (Inflation, repression, capital control)
+<br>
+ChatGPT enhanced the navigation of inquires by orders of magnitude, what would have been a project that needs a day of work took 2 hours.
+
